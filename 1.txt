@@ -4,5 +4,6 @@
 
 #include<iostream>
 int main(){
+  std::cout<<"rebase"<<std::endl;
   return 0;
 }
